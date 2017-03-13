@@ -1,0 +1,12 @@
+header{
+	background-color: red !important;
+}
+footer{
+	background-color: yellow !important;
+}
+p{
+	color: white;
+}
+div{
+	background-color: green !important;
+}
